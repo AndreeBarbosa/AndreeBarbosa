@@ -9,9 +9,9 @@
   <img align="center" alt="André-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="André-Css3" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="André-Html" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="André-PHP" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="André-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-  <img align="center" alt="André-MySQL" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="right" alt="André-PHP" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="right" alt="André-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+  <img colspan="2" align="right" alt="André-MySQL" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   
   
 </div>
