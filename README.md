@@ -2,9 +2,9 @@
 <div align="center">
   <h2>🌟 Estatísticas do Meu GitHub 🌟</h2>
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreebarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/AndreeBarbosa)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreebarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreebarbosa&layout=compact&langs_count=7&theme=dracula)](https://github.com/AndreeBarbosa)
+  <br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreebarbosa&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 <div style="display: inline_block"><br>
