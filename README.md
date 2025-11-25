@@ -1,10 +1,11 @@
 ### Olá! Eu sou o André Barbosa
 <div align="center">
   <h2>🌟 Estatísticas do Meu GitHub 🌟</h2>
-  <a href="https://github.com/AndreeBarbosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreebarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreebarbosa&layout=compact&langs_count=7&theme=dracula"/>
-  </a> 
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreebarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/AndreeBarbosa)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreebarbosa&layout=compact&langs_count=7&theme=dracula)](https://github.com/AndreeBarbosa)
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
