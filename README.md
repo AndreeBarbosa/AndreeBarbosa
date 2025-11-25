@@ -2,11 +2,11 @@
 <div align="center">
   <h2>💻 Minhas Estatísticas no GitHub 📊</h2>
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreebarbosa&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/AndreeBarbosa)
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndréeBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&cache_seconds=3600)](https://github.com/AndréeBarbosa)
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreebarbosa&layout=compact&langs_count=7&theme=default&hide_border=true)](https://github.com/AndreeBarbosa)
+  [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndréeBarbosa&layout=compact&langs_count=7&theme=dracula&hide_border=true&hide_title=true&cache_seconds=3600)](https://github.com/AndréeBarbosa)
   
 </div>
 <div style="display: inline_block"><br>
